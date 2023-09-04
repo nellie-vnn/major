@@ -1,0 +1,322 @@
+ID,NEU1,NEU2R,EXT1,EXT2R,OPE1,OPE2R,AGR1,AGR2R,CST1,CST2R,CRTRUN,RPR1,RPR2,RPR3,RPR4,Gender,Age,Educational attainment,Annual income,Knowledge
+R001,3,4,4,4,3,4,4,3,4,2,1,3,5,6,2,Female,26-35,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R002,3,5,5,3,4,3,5,1,5,3,1,3,2,3,4,Male,26-35,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R003,3,4,6,3,3,2,4,2,4,4,3,6,2,5,4,Male,36-50,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R004,2,5,4,2,2,4,4,5,6,1,2,6,6,6,6,Male,26-35,Doctoral degree,"£40,000-£60,000",Have participated in financial investment.
+R005,3,5,2,4,2,6,3,4,4,2,1,1,6,6,6,Female,36-50,Bachelor's degree,"£60,000-£80,000",Aware of financial investment but have no intention to participate.
+R006,2,4,3,5,4,3,5,2,3,3,4,1,2,2,2,Female,36-50,Bachelor's degree,"Above £80,000",Aware of financial investment and have intention to invest in the future.
+R007,4,2,2,4,4,4,4,2,3,3,1,3,3,4,1,Male,50+,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R008,3,5,3,5,3,3,3,5,2,4,2,2,1,4,4,Female,36-50,Bachelor's degree,"Above £80,000",Have participated in financial investment.
+R009,6,3,5,1,5,2,3,4,5,3,2,6,6,6,5,Male,50+,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R010,4,2,4,2,4,4,4,2,4,2,2,4,5,6,5,Female,26-35,Doctoral degree,"£20,000-£40,000",Have participated in financial investment.
+R011,4,1,2,5,2,5,2,5,3,6,1,5,4,5,3,Male,26-35,High school diploma,"Under £20,000",Have participated in financial investment.
+R012,3,4,4,3,1,4,4,2,3,3,2,4,5,5,4,Female,18-25,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R013,3,5,5,2,2,5,4,2,2,4,1,5,6,1,5,Male,36-50,Bachelor's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R014,5,3,4,4,4,4,5,2,6,2,1,5,5,5,5,Female,36-50,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R015,6,3,5,2,6,2,5,3,2,4,2,1,4,3,3,Female,36-50,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R016,4,3,5,1,3,3,5,1,5,2,2,5,5,6,6,Female,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R017,3,4,5,2,4,2,5,3,5,3,1,4,5,4,3,Female,36-50,High school diploma,"£40,000-£60,000",Have participated in financial investment.
+R018,5,4,4,3,5,4,5,3,5,3,2,4,5,4,3,Male,26-35,High school diploma,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R019,5,3,5,1,4,2,5,2,4,2,4,4,5,5,3,Male,50+,Doctoral degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R020,4,2,4,2,4,4,4,2,3,2,4,5,5,5,4,Female,26-35,Bachelor's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R021,2,4,5,2,4,2,4,4,5,3,4,1,6,6,6,Male,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R022,4,3,3,3,4,3,4,2,1,2,4,1,2,3,4,Female,26-35,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R023,5,4,3,4,4,2,4,4,5,3,4,4,4,3,3,Male,26-35,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R024,2,4,2,5,4,3,4,2,4,3,1,1,2,2,2,Male,36-50,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R025,3,4,4,2,3,5,3,5,4,4,2,5,6,6,6,Male,26-35,Doctoral degree,"£40,000-£60,000",Have participated in financial investment.
+R026,1,4,6,1,4,4,4,4,6,2,3,6,6,6,6,Female,36-50,Bachelor's degree,"£60,000-£80,000",Aware of financial investment but have no intention to participate.
+R027,3,6,5,3,1,4,6,2,2,2,1,3,5,4,4,Female,36-50,Bachelor's degree,"Above £80,000",Aware of financial investment and have intention to invest in the future.
+R028,4,3,3,5,2,4,4,1,2,3,1,1,2,4,4,Male,50+,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R029,1,6,5,3,5,3,6,3,6,1,1,3,3,5,3,Female,36-50,Bachelor's degree,"Above £80,000",Have participated in financial investment.
+R030,4,1,3,3,5,2,5,2,4,5,3,4,2,2,1,Male,50+,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R031,4,2,4,3,4,2,5,1,4,2,3,1,4,4,6,Female,26-35,Doctoral degree,"£20,000-£40,000",Have participated in financial investment.
+R032,4,3,5,4,6,2,6,3,4,3,1,2,3,3,3,Male,26-35,High school diploma,"Under £20,000",Have participated in financial investment.
+R033,2,5,4,2,4,2,5,2,2,4,1,3,2,2,1,Female,18-25,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R034,6,2,3,5,5,2,6,3,1,6,1,1,2,1,1,Male,36-50,Bachelor's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R035,6,2,2,5,1,6,2,5,3,2,2,6,6,5,6,Female,36-50,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R036,2,5,4,2,1,4,4,5,5,2,2,6,6,6,6,Female,36-50,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R037,2,5,2,5,3,5,5,2,5,1,1,3,4,4,2,Female,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R038,3,4,2,3,4,4,5,2,5,1,1,3,5,5,3,Female,36-50,High school diploma,"£40,000-£60,000",Have participated in financial investment.
+R039,3,4,5,3,6,3,4,4,2,4,1,1,1,1,6,Male,26-35,High school diploma,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R040,2,5,3,4,3,3,2,5,5,3,1,4,4,4,4,Male,50+,Doctoral degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R041,2,4,3,4,3,3,3,5,4,2,2,3,5,6,4,Female,26-35,Bachelor's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R042,2,6,3,6,5,2,6,3,5,1,1,4,1,1,3,Male,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R043,5,2,3,1,3,5,1,4,3,2,3,5,5,5,5,Female,36-50,Doctoral degree,"£20,000-£40,000",Have participated in financial investment.
+R044,3,4,4,4,3,3,5,2,3,4,4,3,2,3,3,Male,26-35,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R045,4,3,5,3,6,2,5,2,5,1,2,5,5,6,2,Male,36-50,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R046,3,5,1,6,6,4,6,1,3,3,1,1,1,1,1,Female,18-25,Master's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R047,5,3,5,3,5,3,5,3,5,3,3,5,4,6,4,Female,26-35,Bachelor's degree,"Above £80,000",Aware of financial investment and have intention to invest in the future.
+R048,4,2,4,4,4,4,4,3,4,1,2,2,5,6,6,Male,26-35,Master's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R049,4,4,3,3,5,3,5,2,4,3,1,2,3,4,4,Female,36-50,Master's degree,"£20,000-£40,000",Have participated in financial investment.
+R050,2,5,1,5,3,3,3,5,2,3,4,5,3,5,2,Female,36-50,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R051,2,6,5,2,2,4,5,2,4,1,3,4,6,5,5,Female,18-25,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R052,3,5,5,1,3,3,3,5,4,3,3,6,6,6,5,Female,50+,High school diploma,"Under £20,000",Have participated in financial investment.
+R053,1,3,1,3,2,4,1,4,1,5,2,1,2,3,4,Female,26-35,Master's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R054,6,4,6,4,3,5,6,3,3,3,3,6,6,6,5,Female,26-35,Bachelor's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R055,3,4,3,4,3,4,5,2,6,2,4,4,4,5,2,Female,26-35,Bachelor's degree,"Above £80,000",Aware of financial investment and have intention to invest in the future.
+R056,4,2,4,3,5,2,4,1,5,2,2,4,4,6,4,Male,36-50,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R057,2,5,3,5,6,2,3,4,3,3,4,2,3,4,3,Female,36-50,Master's degree,"£60,000-£80,000",Have participated in financial investment.
+R058,2,5,4,2,3,4,3,4,4,3,2,5,4,5,4,Female,36-50,Master's degree,"Above £80,000",Have participated in financial investment.
+R059,2,5,5,3,3,6,5,3,4,4,2,2,6,6,5,Male,50+,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R060,5,3,4,3,3,4,5,2,4,3,1,4,5,5,2,Female,36-50,High school diploma,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R061,6,2,2,5,1,6,2,5,5,1,3,5,6,5,5,Female,26-35,Master's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R062,6,2,3,6,3,4,6,2,2,4,2,1,3,3,4,Female,18-25,Master's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R063,5,3,4,4,5,1,3,6,5,1,3,5,6,6,5,Female,26-35,Master's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R064,5,1,6,2,5,2,3,4,4,4,2,5,5,6,5,Male,26-35,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R065,3,3,3,3,3,3,3,5,2,4,3,4,3,5,3,Female,26-35,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R066,3,4,5,3,6,2,6,3,3,4,1,4,1,1,2,Female,26-35,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R067,3,3,1,4,6,2,6,3,5,1,1,2,3,2,3,Male,50+,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R068,2,4,6,2,3,4,4,4,4,4,2,6,6,6,5,Male,26-35,Master's degree,"£60,000-£80,000",Have participated in financial investment.
+R069,5,3,2,4,6,3,6,3,2,5,2,3,3,4,2,Female,50+,High school diploma,"£40,000-£60,000",Have participated in financial investment.
+R070,4,3,5,2,3,6,6,3,4,2,1,4,5,4,3,Male,26-35,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R071,4,2,4,4,4,2,4,5,4,1,2,1,6,6,6,Female,36-50,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R072,6,2,5,3,5,2,3,5,3,4,3,4,5,6,4,Female,18-25,Bachelor's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R073,1,6,6,3,5,4,6,3,1,6,1,2,5,3,3,Male,26-35,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R074,3,6,4,2,3,2,4,1,2,4,1,2,2,2,2,Female,26-35,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R075,3,6,4,2,5,2,4,4,5,3,3,1,5,5,5,Female,26-35,Bachelor's degree,"£60,000-£80,000",Have participated in financial investment.
+R076,5,3,4,4,6,2,5,3,5,1,2,3,4,4,4,Female,50+,Master's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R077,4,2,4,3,4,3,3,5,5,5,1,5,5,5,5,Female,36-50,Master's degree,"£20,000-£40,000",Have participated in financial investment.
+R078,2,4,2,5,4,4,5,2,3,6,3,3,4,3,2,Female,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R079,4,3,6,1,6,1,5,2,3,4,2,2,3,4,2,Female,26-35,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R080,5,1,5,2,5,3,5,3,5,2,2,6,6,6,5,Male,36-50,Master's degree,"£20,000-£40,000",Have participated in financial investment.
+R081,3,5,2,6,5,1,5,2,5,3,3,3,3,3,3,Female,26-35,Master's degree,"Under £20,000",Have participated in financial investment.
+R082,5,1,5,2,3,4,3,6,5,3,2,5,5,5,5,Female,26-35,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R083,4,3,6,4,4,4,3,3,5,3,2,5,6,5,6,Female,50+,Bachelor's degree,"£20,000-£40,000",Have participated in financial investment.
+R084,1,6,6,2,1,4,6,2,5,3,2,5,4,6,3,Female,18-25,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R085,1,6,5,1,3,1,6,1,3,4,3,4,3,3,2,Female,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R086,4,3,3,5,5,3,3,5,5,2,2,5,5,5,2,Female,36-50,Master's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R087,2,5,5,2,5,1,4,1,5,1,4,5,5,1,3,Female,26-35,Master's degree,"£20,000-£40,000",Have participated in financial investment.
+R088,5,3,5,3,5,3,5,3,5,3,2,3,5,6,4,Female,26-35,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R089,4,3,2,4,3,5,4,5,3,4,2,4,4,4,5,Female,26-35,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R090,3,3,3,4,2,5,2,5,3,2,2,4,5,5,5,Female,18-25,Master's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R091,4,3,3,4,2,2,4,2,5,3,3,4,4,4,2,Female,26-35,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R092,2,4,3,5,2,5,5,3,4,2,1,6,6,2,2,Female,18-25,Master's degree,"£60,000-£80,000",Have participated in financial investment.
+R093,5,2,2,4,4,4,4,2,4,5,4,3,3,4,3,Female,50+,Master's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R094,2,6,6,2,4,1,5,3,1,5,3,3,4,4,4,Female,26-35,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R095,3,6,4,2,4,2,5,1,4,2,1,3,4,3,3,Female,26-35,Bachelor's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R096,2,4,2,4,2,4,2,4,3,4,1,4,4,2,3,Female,26-35,Master's degree,"£60,000-£80,000",Have participated in financial investment.
+R097,6,3,1,5,2,4,4,3,4,3,3,5,5,6,3,Female,26-35,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R098,4,2,2,4,4,3,3,4,2,4,1,3,4,4,2,Male,36-50,Master's degree,"£20,000-£40,000",Have participated in financial investment.
+R099,5,2,1,5,3,4,4,5,3,3,2,4,3,4,5,Male,18-25,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R100,2,4,4,3,3,3,3,4,3,3,1,6,6,1,1,Female,26-35,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R101,1,5,2,4,5,4,3,3,4,3,1,2,2,2,2,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment but have no intention to participate.
+R102,2,4,1,6,2,6,1,4,1,6,1,1,1,4,1,Female,26-35,Master's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R103,3,4,3,4,4,2,5,1,3,4,3,3,5,2,2,Female,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R104,5,3,4,3,5,2,6,3,1,5,4,1,1,3,1,Female,26-35,High school diploma,"Under £20,000",Have participated in financial investment.
+R105,3,4,6,4,5,1,5,2,5,1,4,3,4,6,2,Male,18-25,Bachelor's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R106,5,3,2,5,4,4,4,5,4,3,1,4,4,4,3,Male,26-35,Master's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R107,3,5,5,3,5,1,4,4,4,3,3,2,2,6,4,Female,36-50,Bachelor's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R108,2,4,4,1,2,6,4,3,3,4,2,3,5,6,5,Male,26-35,Master's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R109,5,2,6,2,5,1,6,3,5,3,1,5,5,5,5,Male,26-35,Master's degree,"Under £20,000",Aware of financial investment but have no intention to participate.
+R110,2,3,1,4,2,4,1,4,1,3,1,3,4,3,4,Male,26-35,Master's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R111,6,3,6,4,6,2,6,2,4,3,2,2,3,6,1,Male,26-35,Master's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R112,5,2,3,4,4,4,5,2,3,3,1,4,3,5,4,Male,36-50,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R113,6,3,6,3,5,3,6,3,3,4,2,3,4,3,4,Male,18-25,Master's degree,"£20,000-£40,000",Have participated in financial investment.
+R114,3,4,3,3,5,2,5,3,4,3,2,2,5,6,2,Male,26-35,Master's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R115,4,4,3,6,2,4,5,3,2,4,2,5,5,1,1,Male,26-35,Master's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R116,1,5,2,4,5,2,2,4,4,3,3,3,4,5,2,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R117,2,5,6,2,2,4,4,3,2,6,3,3,4,5,3,Female,18-25,Master's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R118,4,3,1,4,3,3,3,5,6,3,4,4,4,6,4,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R119,5,1,1,5,1,6,2,5,3,5,4,5,6,4,2,Male,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R120,2,6,4,5,4,2,2,4,5,3,4,3,3,3,3,Male,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R121,5,4,3,5,5,3,5,3,2,4,1,1,2,2,2,Female,18-25,Bachelor's degree,"£20,000-£40,000",Have participated in financial investment.
+R122,4,3,5,6,6,3,3,3,4,4,2,3,2,4,2,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R123,5,1,2,4,2,5,3,4,3,4,4,4,6,6,4,Female,18-25,High school diploma,"£20,000-£40,000",Never heard about financial investment.
+R124,4,2,3,3,3,3,4,4,2,5,4,5,4,1,3,Female,18-25,High school diploma,"Under £20,000",Never heard about financial investment.
+R125,2,6,4,4,4,4,3,3,5,3,4,4,4,4,4,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R126,3,5,3,5,3,5,3,4,5,2,3,5,6,5,5,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment but have no intention to participate.
+R127,6,4,3,5,4,5,5,3,4,3,4,3,4,5,3,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R128,1,4,2,5,4,4,2,4,4,3,4,3,3,3,3,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R129,6,3,5,3,6,3,2,4,3,5,4,1,4,6,3,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R130,2,5,5,2,6,4,3,5,3,4,4,3,4,4,3,Female,18-25,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R131,3,2,3,3,4,1,3,5,3,3,3,3,4,5,2,Female,18-25,High school diploma,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R132,4,3,4,4,5,3,3,4,4,3,4,3,4,4,4,Female,18-25,Master's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R133,6,2,5,5,1,5,3,5,3,5,2,5,5,5,2,Female,18-25,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R134,3,4,5,2,3,3,3,5,2,4,2,5,5,5,5,Male,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R135,6,2,2,5,2,5,4,5,3,4,3,4,6,5,4,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R136,3,4,4,5,4,2,4,4,5,3,4,2,2,4,3,Female,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R137,3,4,3,4,5,4,4,4,2,3,1,2,5,2,2,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R138,5,1,2,5,2,5,2,6,3,5,2,4,5,6,5,Male,18-25,Bachelor's degree,"Under £20,000",Have participated in financial investment.
+R139,5,4,4,5,5,4,4,5,4,2,1,4,5,6,3,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R140,3,3,4,5,5,3,3,5,3,3,4,3,4,3,3,Male,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R141,5,1,3,6,1,5,5,2,6,1,4,4,6,4,3,Female,18-25,Bachelor's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R142,5,1,5,5,2,5,3,5,2,6,2,6,5,4,5,Male,26-35,Bachelor's degree,"Above £80,000",Never heard about financial investment.
+R143,3,4,4,3,6,2,1,6,3,3,3,4,4,4,4,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R144,4,4,4,5,4,4,5,2,2,4,2,3,3,3,1,Male,26-35,Bachelor's degree,"£60,000-£80,000",Have participated in financial investment.
+R145,4,5,4,3,4,5,4,3,4,5,1,4,6,2,3,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment but have no intention to participate.
+R146,5,2,3,6,1,5,4,4,4,3,3,5,6,5,5,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R147,3,2,4,4,4,2,4,3,2,4,4,2,3,3,3,Male,18-25,Bachelor's degree,"£20,000-£40,000",Have participated in financial investment.
+R148,4,4,3,5,3,4,3,3,4,4,4,1,5,6,1,Female,18-25,Bachelor's degree,"Under £20,000",Aware of financial investment but have no intention to participate.
+R149,3,3,4,2,4,3,4,3,2,4,2,2,5,2,4,Female,18-25,Bachelor's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R150,2,6,2,3,3,2,4,5,3,4,2,5,5,4,3,Male,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R151,3,2,3,2,3,4,4,2,5,3,4,4,5,6,3,Female,18-25,Bachelor's degree,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R152,5,4,1,6,4,5,4,4,4,1,2,3,4,4,4,Male,18-25,High school diploma,"Under £20,000",Never heard about financial investment.
+R153,2,3,5,3,6,3,5,3,4,3,4,3,1,4,3,Female,18-25,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R154,4,4,3,5,1,4,3,3,3,3,4,1,6,6,4,Male,18-25,High school diploma,"Above £80,000",Have participated in financial investment.
+R155,2,4,2,6,5,2,3,5,4,3,3,4,5,5,3,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R156,5,3,3,5,5,1,4,5,3,5,4,4,4,2,2,Male,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R157,4,5,5,3,6,2,4,1,3,3,3,1,4,4,1,Male,26-35,Master's degree,"Above £80,000",Have participated in financial investment.
+R158,4,1,4,2,4,6,3,3,2,6,2,5,5,5,5,Female,18-25,High school diploma,"Under £20,000",Never heard about financial investment.
+R159,6,2,1,6,2,5,3,5,2,5,2,5,4,5,2,Male,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R160,3,4,2,3,3,3,3,5,2,4,4,3,3,3,3,Female,36-50,Bachelor's degree,"£60,000-£80,000",Have participated in financial investment.
+R161,2,3,1,4,4,2,4,4,4,1,3,3,5,1,2,Female,18-25,Bachelor's degree,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R162,4,4,3,4,4,4,4,4,4,3,4,4,3,5,4,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R163,5,4,5,4,5,4,2,5,4,4,4,5,5,5,4,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R164,3,3,4,2,4,2,4,4,4,3,4,4,4,6,1,Female,18-25,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R165,5,2,4,3,3,4,3,3,5,3,3,5,5,3,4,Male,18-25,Master's degree,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R166,2,4,3,4,3,4,4,3,3,4,3,3,2,4,1,Male,18-25,Bachelor's degree,"Under £20,000",Have participated in financial investment.
+R167,6,2,2,6,2,4,5,3,4,3,4,5,6,6,1,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment but have no intention to participate.
+R168,6,2,1,6,6,4,4,4,5,3,3,3,3,3,3,Female,18-25,Bachelor's degree,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R169,3,5,2,5,5,3,3,3,4,3,1,2,2,3,1,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R170,4,3,2,5,4,3,5,2,3,5,2,3,4,4,4,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R171,5,1,1,5,5,3,2,5,4,3,1,3,4,4,4,Female,26-35,High school diploma,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R172,5,4,3,5,5,3,3,3,4,4,4,3,3,2,4,Male,18-25,Bachelor's degree,"£20,000-£40,000",Never heard about financial investment.
+R173,3,3,6,2,5,3,4,5,2,4,3,4,4,5,3,Female,18-25,Bachelor's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R174,5,2,5,3,3,5,3,4,5,3,2,6,6,6,6,Female,18-25,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R175,5,4,1,5,5,5,4,4,3,4,1,4,1,1,1,Male,36-50,High school diploma,"£40,000-£60,000",Never heard about financial investment.
+R176,4,3,4,3,2,4,3,4,4,3,3,3,4,5,5,Female,26-35,Doctoral degree,"£40,000-£60,000",Have participated in financial investment.
+R177,3,3,3,4,2,4,6,2,4,2,4,3,4,5,2,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R178,4,5,3,4,5,4,5,3,4,3,3,2,3,5,1,Female,18-25,Bachelor's degree,"Under £20,000",Have participated in financial investment.
+R179,3,3,3,3,3,3,3,3,4,5,4,3,4,4,3,Male,18-25,Bachelor's degree,"£60,000-£80,000",Have participated in financial investment.
+R180,2,6,2,5,3,4,2,6,3,3,3,3,5,2,3,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R181,3,3,3,3,3,3,3,3,2,4,4,2,4,5,2,Male,26-35,Bachelor's degree,"Above £80,000",Have participated in financial investment.
+R182,2,4,6,4,6,3,4,4,4,3,3,6,4,4,2,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R183,4,6,4,5,5,4,3,3,3,4,4,2,4,3,2,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R184,5,1,3,6,1,5,5,2,4,3,3,4,6,6,6,Female,18-25,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R185,6,4,4,6,4,6,1,6,3,6,4,3,5,6,3,Male,26-35,Bachelor's degree,"£60,000-£80,000",Have participated in financial investment.
+R186,4,3,5,3,6,2,2,5,4,4,4,2,6,6,4,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R187,4,4,3,4,4,3,4,4,4,3,4,3,4,3,4,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R188,2,6,3,6,2,4,3,3,1,5,4,3,4,4,3,Female,18-25,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R189,5,3,4,4,4,3,3,4,2,4,4,3,3,4,5,Female,18-25,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R190,4,3,4,5,4,4,2,4,2,4,3,5,4,3,2,Female,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R191,4,3,5,2,5,2,3,3,2,5,3,2,4,4,4,Female,18-25,Bachelor's degree,"£20,000-£40,000",Have participated in financial investment.
+R192,3,5,4,3,5,3,4,3,4,5,1,2,3,3,3,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R193,2,4,6,3,6,2,4,4,5,1,4,6,5,6,3,Male,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R194,4,5,3,6,6,4,3,5,5,2,2,4,4,3,3,Female,18-25,Doctoral degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R195,3,2,5,2,5,4,3,4,6,1,4,3,5,3,5,Male,18-25,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R196,4,3,2,4,4,1,3,4,3,5,3,3,1,2,3,Female,26-35,Doctoral degree,"Above £80,000",Have participated in financial investment.
+R197,1,5,2,6,1,6,3,3,4,3,2,2,4,5,2,Female,18-25,Master's degree,"£20,000-£40,000",Have participated in financial investment.
+R198,6,4,6,3,2,4,2,5,3,3,1,4,5,4,4,Female,18-25,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R199,3,3,3,6,5,4,3,3,2,5,1,1,2,2,1,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R200,5,4,6,4,5,4,3,5,3,5,2,4,5,5,5,Male,18-25,Bachelor's degree,"£60,000-£80,000",Never heard about financial investment.
+R201,4,4,3,5,2,4,1,5,3,4,4,4,5,6,5,Female,26-35,Master's degree,"Above £80,000",Have participated in financial investment.
+R202,6,1,1,5,1,5,1,6,2,4,3,3,6,6,6,Male,26-35,Doctoral degree,"Above £80,000",Aware of financial investment and have intention to invest in the future.
+R203,5,2,1,6,6,2,2,4,2,4,4,1,2,4,2,Male,18-25,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R204,3,6,3,5,6,3,4,2,3,6,4,2,5,5,1,Male,18-25,High school diploma,"£40,000-£60,000",Have participated in financial investment.
+R205,3,4,3,3,3,4,3,3,4,3,3,4,5,6,2,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment but have no intention to participate.
+R206,5,4,5,5,5,4,2,4,2,4,4,3,4,5,2,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R207,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R208,2,3,3,3,3,3,4,3,3,3,2,2,4,4,2,Female,26-35,High school diploma,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R209,3,3,3,3,3,3,3,3,2,4,2,4,3,3,3,Female,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R210,3,4,3,4,4,4,4,2,2,4,4,2,1,2,2,Female,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R211,4,6,3,6,6,3,3,5,1,6,4,1,1,1,1,Male,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R212,3,4,4,5,4,3,4,4,2,5,4,3,3,3,4,Female,18-25,High school diploma,"Under £20,000",Never heard about financial investment.
+R213,4,5,2,6,5,3,3,5,5,3,2,1,5,2,1,Male,36-50,Professional degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R214,1,6,2,5,2,6,2,6,4,5,1,3,4,3,3,Female,36-50,Master's degree,"£60,000-£80,000",Have participated in financial investment.
+R215,3,3,2,5,2,4,2,4,3,5,4,3,3,5,3,Female,36-50,Master's degree,"Above £80,000",Aware of financial investment but have no intention to participate.
+R216,1,3,3,4,3,2,2,3,4,4,1,2,3,3,3,Female,36-50,Doctoral degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R217,6,4,6,3,4,5,2,4,4,4,2,6,6,6,6,Female,36-50,Master's degree,"Above £80,000",Have participated in financial investment.
+R218,4,2,3,5,2,4,4,4,3,3,4,3,5,6,4,Female,26-35,Doctoral degree,"£60,000-£80,000",Have participated in financial investment.
+R219,3,3,4,4,4,3,4,4,3,3,2,4,3,4,3,Female,26-35,Doctoral degree,"Under £20,000",Have participated in financial investment.
+R220,2,6,6,4,5,4,2,4,2,4,1,3,4,4,2,Female,36-50,Doctoral degree,"Above £80,000",Have participated in financial investment.
+R221,2,3,2,5,3,5,2,5,2,5,3,3,3,3,3,Male,36-50,Professional degree,"£60,000-£80,000",Have participated in financial investment.
+R222,5,2,5,5,2,5,2,6,5,3,2,4,4,3,4,Male,18-25,High school diploma,"Under £20,000",Never heard about financial investment.
+R223,1,5,3,3,2,4,4,2,4,4,4,3,3,3,2,Male,26-35,Bachelor's degree,"£60,000-£80,000",Have participated in financial investment.
+R224,4,6,5,4,3,5,5,2,6,1,4,4,5,4,4,Male,50+,Doctoral degree,"Above £80,000",Have participated in financial investment.
+R225,4,5,5,4,5,2,2,4,3,4,3,2,4,2,4,Male,36-50,Doctoral degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R226,6,2,6,6,6,2,2,5,3,4,3,3,3,4,4,Female,26-35,Bachelor's degree,"£60,000-£80,000",Aware of financial investment but have no intention to participate.
+R227,4,6,5,5,5,4,5,1,4,4,4,2,2,5,3,Female,26-35,Doctoral degree,"£60,000-£80,000",Have participated in financial investment.
+R228,3,3,2,6,5,5,5,3,2,4,1,4,4,4,3,Male,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R229,4,6,2,5,4,2,4,3,5,2,3,1,4,5,1,Male,50+,Master's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R230,2,4,4,2,5,3,5,3,5,3,2,4,4,4,2,Female,36-50,Master's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R231,3,4,3,4,2,5,3,4,4,3,2,4,6,6,6,Female,36-50,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R232,4,5,6,4,5,3,2,4,2,6,2,4,5,1,1,Female,36-50,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R233,5,2,2,5,2,5,3,4,1,5,3,3,5,6,3,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R234,3,2,3,5,3,6,3,3,3,3,2,5,4,5,4,Female,36-50,Doctoral degree,"£40,000-£60,000",Have participated in financial investment.
+R235,4,5,5,4,3,3,3,3,5,3,3,5,5,3,5,Female,50+,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R236,4,4,3,4,3,3,5,2,6,1,4,3,5,6,4,Female,36-50,Doctoral degree,"£60,000-£80,000",Have participated in financial investment.
+R237,3,2,3,4,4,6,3,4,4,4,1,5,5,5,5,Female,50+,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R238,2,6,2,5,2,6,2,3,4,4,3,2,5,6,2,Female,36-50,Doctoral degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R239,4,4,4,1,4,1,4,4,3,6,2,2,4,4,1,Male,36-50,Doctoral degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R240,2,4,3,4,3,3,4,4,3,3,4,3,3,3,3,Male,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R241,1,3,2,4,3,3,4,5,1,5,1,5,4,3,3,Female,36-50,Master's degree,"£20,000-£40,000",Never heard about financial investment.
+R242,4,5,5,4,4,4,2,4,3,4,3,4,6,6,4,Female,36-50,Doctoral degree,"£40,000-£60,000",Have participated in financial investment.
+R243,3,5,1,5,2,5,3,3,3,2,4,2,4,5,3,Female,18-25,Doctoral degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R244,2,3,3,3,3,3,3,3,4,4,2,3,4,6,2,Female,36-50,Master's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R245,3,3,5,2,4,2,4,4,5,1,4,4,4,5,3,Male,36-50,Doctoral degree,"Above £80,000",Have participated in financial investment.
+R246,4,4,4,5,1,5,4,4,3,4,1,5,5,5,4,Female,36-50,Master's degree,"£20,000-£40,000",Have participated in financial investment.
+R247,4,4,6,5,1,4,5,3,6,1,3,1,5,5,5,Female,26-35,Bachelor's degree,"£20,000-£40,000",Have participated in financial investment.
+R248,2,5,1,4,2,4,1,5,1,4,3,2,3,3,1,Female,36-50,High school diploma,"£20,000-£40,000",Never heard about financial investment.
+R249,5,1,4,5,4,4,2,4,4,3,1,5,3,6,4,Female,36-50,Professional degree,"£60,000-£80,000",Have participated in financial investment.
+R250,2,3,5,3,3,3,3,5,1,5,1,2,5,6,3,Female,36-50,Bachelor's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R251,4,5,6,4,3,6,3,5,3,4,4,3,5,5,3,Male,36-50,Professional degree,"£60,000-£80,000",Have participated in financial investment.
+R252,2,5,4,4,4,2,5,2,4,3,1,1,2,2,3,Female,36-50,Doctoral degree,"£40,000-£60,000",Have participated in financial investment.
+R253,4,5,4,3,3,1,2,4,2,4,3,4,4,3,2,Female,36-50,Professional degree,"£40,000-£60,000",Have participated in financial investment.
+R254,5,1,2,5,2,5,2,6,2,5,3,4,5,5,6,Female,36-50,Master's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R255,1,6,6,2,6,1,5,3,2,6,3,3,3,3,3,Female,50+,Master's degree,"£60,000-£80,000",Have participated in financial investment.
+R256,4,6,6,4,2,5,1,6,3,3,3,5,5,6,3,Male,36-50,Professional degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R257,2,4,4,3,2,6,4,2,4,1,1,5,5,5,5,Female,36-50,Master's degree,"£40,000-£60,000",Have participated in financial investment.
+R258,1,5,1,4,1,5,1,5,1,4,1,3,3,3,2,Female,36-50,High school diploma,"Under £20,000",Never heard about financial investment.
+R259,6,2,5,4,2,3,3,3,6,3,2,4,3,5,4,Female,36-50,Master's degree,"£20,000-£40,000",Never heard about financial investment.
+R260,4,5,4,4,6,4,5,3,5,3,1,3,2,3,2,Female,36-50,Master's degree,"£60,000-£80,000",Have participated in financial investment.
+R261,4,4,4,5,4,5,5,1,2,6,3,1,5,5,3,Female,50+,Master's degree,"£20,000-£40,000",Have participated in financial investment.
+R262,4,4,3,3,4,4,4,4,3,3,2,5,3,4,3,Female,36-50,Master's degree,"£40,000-£60,000",Never heard about financial investment.
+R263,3,4,4,4,3,4,4,3,1,2,4,2,5,3,2,Female,36-50,Doctoral degree,"Above £80,000",Have participated in financial investment.
+R264,4,3,3,4,2,4,3,3,4,4,4,3,5,3,6,Female,18-25,Bachelor's degree,"£40,000-£60,000",Aware of financial investment and have intention to invest in the future.
+R265,3,1,1,5,1,6,1,5,1,5,2,3,5,5,3,Female,36-50,Doctoral degree,"£40,000-£60,000",Have participated in financial investment.
+R266,3,4,4,3,4,4,4,4,4,3,3,3,5,5,5,Female,50+,Bachelor's degree,"£40,000-£60,000",Have participated in financial investment.
+R267,6,1,4,6,4,5,4,4,2,4,1,4,4,4,4,Female,36-50,Doctoral degree,"£20,000-£40,000",Never heard about financial investment.
+R268,1,4,2,5,4,2,1,4,3,4,3,4,3,4,4,Female,50+,Master's degree,"£20,000-£40,000",Never heard about financial investment.
+R269,2,3,3,3,3,6,4,2,3,3,1,4,4,4,3,Male,36-50,Master's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R270,4,3,4,2,5,4,4,3,3,3,4,4,4,5,3,Female,26-35,Bachelor's degree,"Above £80,000",Have participated in financial investment.
+R271,3,5,4,2,5,3,3,4,2,6,3,2,2,4,1,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R272,5,3,4,6,2,5,3,3,1,5,3,4,5,5,3,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R273,6,2,2,6,3,6,1,6,3,6,1,4,6,6,4,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R274,4,2,2,3,4,2,3,4,3,3,4,4,5,5,2,Female,18-25,Bachelor's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R275,5,4,5,4,2,3,4,5,5,4,3,6,5,6,5,Female,18-25,Bachelor's degree,"£20,000-£40,000",Have participated in financial investment.
+R276,3,4,3,4,3,2,3,2,4,1,3,3,4,5,2,Female,18-25,High school diploma,"£40,000-£60,000",Have participated in financial investment.
+R277,4,3,4,4,4,2,5,5,3,4,2,3,4,4,3,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R278,5,4,3,4,5,2,5,4,4,2,4,2,4,3,4,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R279,4,5,3,5,4,3,5,1,6,2,4,6,3,2,2,Male,18-25,High school diploma,"Under £20,000",Never heard about financial investment.
+R280,3,4,4,3,4,4,6,2,3,4,1,3,3,4,2,Female,26-35,Master's degree,"£60,000-£80,000",Never heard about financial investment.
+R281,4,1,4,1,1,4,2,4,4,1,4,4,5,5,3,Male,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R282,3,4,3,4,4,3,4,3,2,4,4,2,2,1,1,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment but have no intention to participate.
+R283,3,3,5,3,6,2,2,6,5,3,4,5,5,6,3,Female,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R284,3,4,4,3,3,4,4,3,4,3,4,3,5,6,4,Female,18-25,High school diploma,"£40,000-£60,000",Have participated in financial investment.
+R285,4,4,4,4,3,4,4,4,4,3,4,2,6,6,4,Male,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R286,5,3,6,2,5,2,2,4,6,1,4,3,4,4,5,Female,18-25,Doctoral degree,"Above £80,000",Have participated in financial investment.
+R287,4,4,4,5,3,4,6,2,5,4,4,2,5,6,1,Male,18-25,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R288,2,4,6,3,4,3,2,4,5,2,2,5,6,6,4,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R289,4,3,3,2,2,3,4,5,3,1,3,5,6,4,6,Male,18-25,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R290,4,3,3,5,4,3,3,5,4,3,4,4,4,4,4,Female,18-25,High school diploma,"Above £80,000",Have participated in financial investment.
+R291,1,4,4,3,5,4,4,3,5,2,3,3,3,6,4,Male,18-25,High school diploma,"£40,000-£60,000",Have participated in financial investment.
+R292,3,3,4,5,5,3,5,2,5,4,4,1,2,3,3,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R293,3,3,2,3,3,3,3,2,3,4,1,1,3,4,3,Female,18-25,High school diploma,"Under £20,000",Never heard about financial investment.
+R294,2,3,4,5,5,5,4,3,2,5,4,2,5,6,4,Male,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R295,3,4,3,2,4,2,3,6,4,3,3,2,5,5,2,Male,18-25,Master's degree,"Above £80,000",Have participated in financial investment.
+R296,3,3,4,3,4,3,4,2,3,3,4,3,4,5,1,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R297,4,2,5,4,6,5,5,4,4,3,3,4,3,6,4,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R298,4,4,5,2,4,3,4,6,3,1,4,3,4,4,4,Male,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R299,3,3,4,4,5,3,4,3,4,2,4,3,3,4,3,Female,26-35,Bachelor's degree,"£40,000-£60,000",Aware of financial investment but have no intention to participate.
+R300,4,3,5,3,5,3,2,5,3,4,4,4,5,6,4,Male,18-25,High school diploma,"£60,000-£80,000",Have participated in financial investment.
+R301,4,3,3,4,5,4,5,2,4,2,4,3,4,3,1,Female,26-35,Bachelor's degree,"£60,000-£80,000",Have participated in financial investment.
+R302,3,5,5,5,5,1,5,4,5,2,4,2,3,4,3,Male,26-35,Bachelor's degree,"£60,000-£80,000",Aware of financial investment and have intention to invest in the future.
+R303,4,3,2,5,4,3,4,3,3,2,2,2,2,3,3,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R304,3,4,5,4,4,3,1,3,4,2,2,5,4,6,3,Male,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R305,4,3,4,4,4,4,1,4,4,4,4,5,5,5,4,Female,26-35,Bachelor's degree,"£20,000-£40,000",Have participated in financial investment.
+R306,5,2,2,5,4,5,4,3,5,5,1,2,5,5,2,Female,18-25,High school diploma,"Under £20,000",Have participated in financial investment.
+R307,6,5,6,4,4,5,5,2,4,3,4,2,3,6,4,Female,26-35,Bachelor's degree,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R308,5,4,5,4,5,5,5,4,5,2,2,4,4,6,6,Female,18-25,High school diploma,"£20,000-£40,000",Have participated in financial investment.
+R309,3,4,3,5,5,4,2,4,5,3,3,6,6,1,3,Female,18-25,High school diploma,"Under £20,000",Never heard about financial investment.
+R310,2,4,4,5,5,3,2,4,5,2,4,3,4,4,4,Male,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R311,3,3,4,4,5,1,5,4,5,2,4,3,2,5,1,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R312,6,4,5,3,4,4,3,4,5,3,4,5,5,5,5,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R313,3,5,4,6,6,2,6,2,4,1,4,1,4,4,3,Female,18-25,Master's degree,"£20,000-£40,000",Never heard about financial investment.
+R314,3,4,2,5,5,2,4,6,4,2,4,3,3,3,3,Female,18-25,High school diploma,"Under £20,000",Aware of financial investment and have intention to invest in the future.
+R315,6,4,5,4,5,4,5,4,4,4,3,4,5,6,3,Female,26-35,Bachelor's degree,"£40,000-£60,000",Never heard about financial investment.
+R316,2,1,5,2,4,4,3,5,4,5,4,4,6,6,4,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment but have no intention to participate.
+R317,5,3,5,5,5,4,5,2,5,2,4,4,6,4,3,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R318,4,4,4,4,4,1,6,3,4,4,3,3,2,3,3,Female,18-25,Bachelor's degree,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R319,4,6,5,5,6,4,6,5,5,1,3,4,4,4,4,Female,36-50,Bachelor's degree,"£20,000-£40,000",Have participated in financial investment.
+R320,4,2,3,3,3,2,3,4,4,1,3,6,6,6,6,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
+R321,3,3,3,4,3,3,3,4,3,2,4,4,4,3,4,Female,18-25,High school diploma,"£20,000-£40,000",Aware of financial investment and have intention to invest in the future.
